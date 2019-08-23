@@ -1,3 +1,5 @@
+$any_phrase
+
 def mario
 puts "It's-a me, Mario!"
 end
@@ -16,3 +18,5 @@ def starfox
 phrase = "Do A Barrel Roll!"
 puts "#{phrase}"
 end
+
+any_phrase(starfox)
