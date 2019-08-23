@@ -12,6 +12,11 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
+def starfox
+  phrase = "Do A Barrel Roll!"
+  puts phrase
+end
+
 def any_phrase(phrase)
   puts phrase
 end
