@@ -1,4 +1,4 @@
-$any_phrase
+
 
 def mario
 puts "It's-a me, Mario!"
@@ -19,4 +19,4 @@ phrase = "Do A Barrel Roll!"
 puts "#{phrase}"
 end
 
-any_phrase(starfox)
+any_phrase(phrase)
